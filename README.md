@@ -7,14 +7,14 @@ The data from this project was obtained through the Education Data Portal API vi
 My project focused on the data available for postsecondary institutions only. I further subsetting the data for institutions that are degree-granting. The final dataset contains 4,102 institutions and information about those institutions and their student body in 2016.
 
 * Integrated Postsecondary Educaton Data System (IPEDS)
-      * Directory
-      * Institional Characteristics
-      * Applications, Admissions, and Enrollments
-      * Headcount
+     + Directory
+     + Institional Characteristics
+     + Applications, Admissions, and Enrollments
+     + Headcount
 * College Scorecard
-      * Student Home and Neighborhood Characteristics
+     + Student Home and Neighborhood Characteristics
 * Dependent Variable of Interest
-      * Bureau of Economic Analysis (BEA) Regions
+     + Bureau of Economic Analysis (BEA) Regions
 
 ## Considerations
 * Class imbalance
