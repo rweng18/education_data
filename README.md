@@ -23,6 +23,10 @@ For the baseline model, I used the Dummy Classifier provided by Scikit Learn, us
 
 <img src = "https://github.com/rweng18/education_data/blob/master/figures/fig23_cm_dummy.jpg" width = "400" height = "275">
 
+### Model Selection
+* What parameters did I tune? Why did I tune these?
+* Why Random Forest over Boosting?
+
 ### Final Model: GridSearch Optimized Random Forest
 
 <img src = "https://github.com/rweng18/education_data/blob/master/figures/fig24_cm_forest.jpg" width = "400" height = "275">
