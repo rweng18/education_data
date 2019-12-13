@@ -14,6 +14,9 @@ My project focused on the data available for postsecondary institutions only. I 
 * Dependent Variable of Interest
      + Census Bureau Region
 
+### Feature Selection
+The data pulled from the IPEDS and Scorecard data originally started with 100+ variables, that provided tons of information about each institution and its student population. Based on domain knowledge of what may be most relevant to the distinctions between schools, I focused on the racial breakdown of enrolled students, institutional characteristics (size, on-campus housing, years of education offered, etc.), and socioeconomic breakdown of financial aid applicants.
+
 ### Outcome Variable
 <img src = "https://github.com/rweng18/education_data/blob/master/figures/fig01_cb_region_hist.jpg" width = "400" height = "300">
 
