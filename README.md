@@ -1,6 +1,8 @@
 # Classifying Degree-Granting Postsecondary Institutions by Census Bureau Region
 This project aims to explore whether a machine learning algorithm can accurately classify a degree-granting postsecondary institution as being located in the Northeast or the West, as defined by the Census Bureau.
 
+Final project presentation [here](https://docs.google.com/presentation/d/1UJwYwveRv2wKe9XTjFhKUbWLuMmiIWuasHAszqPAI1A/edit?usp=sharing).
+
 ## Data
 The data from this project was obtained through the [Education Data Portal API](https://educationdata.urban.org/documentation/colleges.html#scorecard-student-characteristics-student-aid-applicant-characteristics) via the Urban Institute. The goal of Urban Institute's project was to make education data easy to access and analyze for greater transparency and hopefully positive policy changes.
 
